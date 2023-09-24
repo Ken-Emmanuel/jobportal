@@ -38,7 +38,7 @@ echo "<script>window.location.href ='add-category.php'</script>";
 <!doctype html>
  <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>
- <title>Job Pilot - Add Category</title>
+ <title>Job Portal - Add Category</title>
 <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
 
 </head>

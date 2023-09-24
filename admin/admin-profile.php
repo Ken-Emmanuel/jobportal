@@ -27,7 +27,7 @@ $query->execute();
 <!doctype html>
  <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>
- <title>Job Pilot - Admin Profile</title>
+ <title>Job Portal - Admin Profile</title>
 <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
 
 </head>

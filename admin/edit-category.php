@@ -29,7 +29,7 @@ $query->bindParam(':editid',$editid,PDO::PARAM_STR);
 <!doctype html>
  <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>
- <title>Job Pilot - Edit Category</title>
+ <title>Job Portal - Edit Category</title>
 <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
 
 </head>

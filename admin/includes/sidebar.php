@@ -29,7 +29,7 @@
                                 <div class="content-header-item">
                                     <a class="link-effect font-w700" href="dashboard.php">
                                         <i class="si si-fire text-primary"></i>
-                                        <span class="font-size-xl text-dual-primary-dark">JOB</span><span class="font-size-xl text-primary">PILOT</span>
+                                        <span class="font-size-xl text-dual-primary-dark">JOB</span><span class="font-size-xl text-primary">PORTAL</span>
                                     </a>
                                 </div>
                                 <!-- END Logo -->

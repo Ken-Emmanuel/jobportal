@@ -172,7 +172,7 @@ foreach($results as $result)
 
 <!-- Job Package --> 
 <strong class="price"><i class="fa fa-money"></i>
-  $<?php echo htmlentities($result->salaryPackage); ?></strong> <br />
+¢ <?php echo htmlentities($result->salaryPackage); ?></strong> <br />
 
 
 

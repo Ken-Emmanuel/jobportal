@@ -36,7 +36,7 @@ echo '<script>alert("Your current password is wrong")</script>';
 <!doctype html>
  <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>
- <title>Job Pilot - Change Password</title>
+ <title>Job Portal - Change Password</title>
 <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
 <script type="text/javascript">
 function checkpass()

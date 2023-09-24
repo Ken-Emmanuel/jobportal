@@ -192,7 +192,7 @@ foreach($results as $row)
 
           <div class="col-md-6 col-sm-6">
 
-              <label>Salary Package(In Dollars)</label>
+              <label>Salary Package</label>
 <input type="text" value="<?php echo htmlentities($result->salaryPackage);?>" name="salarypackage" required>
 
             </div>

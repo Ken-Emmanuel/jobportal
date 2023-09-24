@@ -10,7 +10,7 @@ if (strlen($_SESSION['jpaid']==0)) {
 <!doctype html>
  <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>
- <title>Job Pilot - View Employer Detail</title>
+ <title>Job Portal - View Employer Detail</title>
 <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
 
 </head>

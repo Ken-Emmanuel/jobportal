@@ -144,7 +144,7 @@ foreach($results as $row)
 
                   <p><?php  echo htmlentities($row->CompnayName);?> <em><a href="index.php">(View All Jobs)</a></em></p>
 
-                  <a href="#" class="text"><i class="fa fa-map-marker"></i><?php  echo htmlentities($row->jobLocation);?></a> <a href="#" class="text"><i class="fa fa-calendar"></i><?php  echo htmlentities($row->postinDate);?> </a> <strong class="price"><i class="fa fa-money"></i>$<?php  echo htmlentities($row->salaryPackage);?></strong>
+                  <a href="#" class="text"><i class="fa fa-map-marker"></i><?php  echo htmlentities($row->jobLocation);?></a> <a href="#" class="text"><i class="fa fa-calendar"></i><?php  echo htmlentities($row->postinDate);?> </a> <strong class="price"><i class="fa fa-money"></i>¢<?php  echo htmlentities($row->salaryPackage);?></strong>
                   <div class="tags" style="padding-top: 10px"> <a href="app-details.php?jobid=<?php echo ($row->JobId);?>"><i class="fa fa-tags"></i><?php  
 if($row->Status=="")
 {

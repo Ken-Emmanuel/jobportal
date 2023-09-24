@@ -43,7 +43,7 @@ echo "<script>alert('Invalid Details');</script>";
 <!doctype html>
 <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>       
-        <title>Job Pilot - Login Page</title>
+        <title>Job Portal - Login Page</title>
         <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
     </head>
     <body>

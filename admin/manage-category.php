@@ -24,7 +24,7 @@ $query->execute();
 <!doctype html>
 <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>
-        <title>Job Pilot - Manage Category</title>
+        <title>Job Portal - Manage Category</title>
 
         <link rel="stylesheet" href="assets/js/plugins/datatables/dataTables.bootstrap4.min.css">
 

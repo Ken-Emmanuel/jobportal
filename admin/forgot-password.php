@@ -34,7 +34,7 @@ echo "<script>alert('Email id or Mobile no is invalid');</script>";
 <!doctype html>
 <html lang="en" class="no-focus"> <!--<![endif]-->
     <head>       
-        <title>Job Pilot - Forgot Page</title>
+        <title>Job Portal - Forgot Page</title>
         <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
         <script type="text/javascript">
 function valid()
